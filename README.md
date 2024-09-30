@@ -44,6 +44,9 @@ O Flash Chat é um aplicativo de mensagens parecido com Telegram, nele o usuári
 
 # GitFollowers
 O GitFollowers é um App simples em sua usabilidade, nele o usuário busca um perfil do GitHub e vê seus followers, nada demais né? Era o que eu achava até começar a trabalhar nele, esse projeto foi meu maior projeto até o momento e o que mais me tirou da minha zona de conforto e me ensinou, nele pela primeira vez não usei Storyboard e fiz tudo programando a mão, me conectei com outros Devs IOS para tirar dúvidas sobre o projeto, pois ele já é antigo na comunidade e estava bem desatualizado, e me fez aprender muito sobre todas as antigas versões do Swift, pois as respostas que eu buscava encontrar muitas vezes, outra pessoa buscou ela anos atrás, foi muito incrível ver a evolução da linguagem e ver como ela se adaptou para os novos desenvolvedores, e entender mais a fundo como estavam funcionando as coisas por trás dos pano foi algo que fez algo clicar na minha cabeça com muitos conceitos que eu estava aprendendo.
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-30 at 07 27 10](https://github.com/user-attachments/assets/0bcfbd61-2d1e-4c97-9165-71349beec12d)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-30 at 07 27 50](https://github.com/user-attachments/assets/4b296c8f-c882-4101-ac43-baef62cbb254)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-30 at 07 28 03](https://github.com/user-attachments/assets/b5c11e9c-c64d-4f17-82cc-d2fed576b584)
 
 
 
