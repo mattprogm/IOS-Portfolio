@@ -46,9 +46,9 @@ O Flash Chat é um aplicativo de mensagens parecido com Telegram, nele o usuári
 O GitFollowers é um App simples em sua usabilidade, nele o usuário busca um perfil do GitHub e vê seus followers, nada demais né? Era o que eu achava até começar a trabalhar nele, esse projeto foi meu maior projeto até o momento e o que mais me tirou da minha zona de conforto e me ensinou, nele pela primeira vez não usei Storyboard e fiz tudo programando a mão, me conectei com outros Devs IOS para tirar dúvidas sobre o projeto, pois ele já é antigo na comunidade e estava bem desatualizado, e me fez aprender muito sobre todas as antigas versões do Swift, pois as respostas que eu buscava encontrar muitas vezes, outra pessoa buscou ela anos atrás, foi muito incrível ver a evolução da linguagem e ver como ela se adaptou para os novos desenvolvedores, e entender mais a fundo como estavam funcionando as coisas por trás dos pano foi algo que fez algo clicar na minha cabeça com muitos conceitos que eu estava aprendendo.
 
 <p align="center">
-  <img width="200" height = "400" src=[Simulator Screenshot - iPhone 15 Pro - 2024-09-30 at 07 27 10](https://github.com/user-attachments/assets/50d7343a-f978-436b-8f8a-52049c700884)/>
-  <img width="200" height = "400" src=[Simulator Screenshot - iPhone 15 Pro - 2024-09-30 at 07 27 50](https://github.com/user-attachments/assets/a0178fff-9b6b-4654-91d6-550966598b91)/>
-  <img width="200" height = "400" src=[Simulator Screenshot - iPhone 15 Pro - 2024-09-30 at 07 28 03](https://github.com/user-attachments/assets/b80d48b1-23cf-4245-a129-3e4d983a885e)/>
+  <img width="200" height = "400" src=(https://github.com/user-attachments/assets/50d7343a-f978-436b-8f8a-52049c700884)/>
+  <img width="200" height = "400" src=(https://github.com/user-attachments/assets/a0178fff-9b6b-4654-91d6-550966598b91)/>
+  <img width="200" height = "400" src=(https://github.com/user-attachments/assets/b80d48b1-23cf-4245-a129-3e4d983a885e)/>
 </p>
 
 
